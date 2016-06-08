@@ -90,7 +90,7 @@ echo "local app_dir ....." $app_dir
 echo "JAVA_MAIN_CLASS ....." $JAVA_MAIN_CLASS
 echo "HAWTAPP_VERSION ....." $HAWTAPP_VERSION
 echo "=================================================================="
-#JAVA_MAIN_CLASS=com.asksunny.ssl.server.SecureSocketServer
+JAVA_MAIN_CLASS=com.asksunny.ssl.server.SecureSocketServer
 
   # Use main class if given
   local hawtapp_arg=""
